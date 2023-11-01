@@ -23,6 +23,16 @@
         "id": "https://ado242.github.io/video-games-mv/video-games/canvas-1/canvas",
         "type": "Canvas",
         "duration": 278.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ado242.github.io/video-games-mv/annotations/video-games-canvas-1-performing-femininity.json",
+            "label": {
+              "none": ["Performing Femininity"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ado242.github.io/video-games-mv/video-games/canvas-1/paintings",
